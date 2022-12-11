@@ -30,7 +30,7 @@ Json параметры:
 | 500 | "Internal Server Error" | ошибка сервера |
 ___
 ### просмотр запроса по id
-##### <div style="display:inline-block; backgroung-color:red;">`GET`</div> "/api/request/`{id}`"
+##### `GET` "/api/request/`{id}`"
 ```без тела запроса```</br>
 Коды результата:
 | код | body ответ | описание |
